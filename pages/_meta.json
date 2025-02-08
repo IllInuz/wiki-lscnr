@@ -2,10 +2,6 @@
   "index": "Introduction",
   "discord": "Discord Rules",
   "ingame": "Ingame Rules",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
