@@ -2,11 +2,11 @@
   "index": "Introduction",
   "discord": "Discord Rules",
   "ingame": "Ingame Rules",
+  "guides": "Player guides",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
     "href": "https://twitter.com/shuding_",
     "newWindow": true
-  },
-  "guides": "Guides"
+  }
 }
